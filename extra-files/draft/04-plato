@@ -1,0 +1,6 @@
+name=plato
+desc=Plato reader
+call=/usr/bin/plato
+term=killall plato
+imgFile=plato
+
